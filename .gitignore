@@ -4,8 +4,9 @@
 # Log file
 *.log
 
-#.idea directory
+# IntelliJ
 /.idea/
+Supermarkt.iml
 
 # BlueJ files
 *.ctxt
